@@ -1,0 +1,239 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593990211935@s.whatsapp.net',
+    fromMe: false,
+    id: '26DFD4C84EAEA660D74AC2842C418F0D',
+    participant: undefined
+  },
+  messageTimestamp: 1740178051,
+  pushName: 'Robth',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '593990211935'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9d4ea96a-d5bd-4e57-90b0-31cbc74dc9b1',
+  keyword: 'key_8701905e-a41c-46f4-a026-f34041d8740f',
+  answer: '🙌 ¡Hola! Bienvenido a nuestra tienda.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02257fbaeb5aa486075fcd94820d8916'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0a9b629f-6a89-4e7d-bade-c9f65b9b19dd',
+  keyword: 'ans_9d4ea96a-d5bd-4e57-90b0-31cbc74dc9b1',
+  answer: 'Escribe productos para ver todo nuestro catálogo o "necesito [producto]" para buscar algo específico.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4f72ccc91219c9163885230f664396a8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593990211935@s.whatsapp.net',
+    fromMe: false,
+    id: '60E92DBF19E19470E69764C004FA22A5',
+    participant: undefined
+  },
+  messageTimestamp: 1740178063,
+  pushName: 'Robth',
+  broadcast: false,
+  message: Message {
+    conversation: 'Productos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Productos',
+  from: '593990211935'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_727e6c74-29fa-4ff0-a8a8-ecdbba672cb9',
+  keyword: 'key_85ce06de-dfa9-4b00-98aa-4aec6fa83499',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd0b9dbc84792537f824864b1da7d072a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593990211935@s.whatsapp.net',
+    fromMe: false,
+    id: '937540160CC133AA122CABE8524F81D6',
+    participant: undefined
+  },
+  messageTimestamp: 1740178076,
+  pushName: 'Robth',
+  broadcast: false,
+  message: Message {
+    conversation: 'Necesito empresa de seguridad',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Necesito empresa de seguridad',
+  from: '593990211935'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5dce9a79-c65d-4f05-aaf5-b916639ed33d',
+  keyword: 'key_2fac48d5-288b-4499-b25f-9be133a1ea13',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '84e97b294459517e304e54bc10b32cd2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593999217425@s.whatsapp.net',
+    fromMe: false,
+    id: '29084C1C149AFD2C5EB18F0112C0B59A',
+    participant: undefined
+  },
+  messageTimestamp: 1740178558,
+  pushName: 'Mary',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mijo y las claves por dónde está',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Mijo y las claves por dónde está',
+  from: '593999217425'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593999217425@s.whatsapp.net',
+    fromMe: false,
+    id: '24E5E91F7A6E60A24A70FA66FD140FA3',
+    participant: undefined
+  },
+  messageTimestamp: 1740178667,
+  pushName: 'Mary',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y las claves',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Y las claves',
+  from: '593999217425'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593999217425@s.whatsapp.net',
+    fromMe: false,
+    id: 'B92F0EE69FF3A0BD8F125221AD828475',
+    participant: undefined
+  },
+  messageTimestamp: 1740178680,
+  pushName: 'Mary',
+  broadcast: false,
+  message: Message {
+    conversation: 'Claces',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Claces',
+  from: '593999217425'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593999217425@s.whatsapp.net',
+    fromMe: false,
+    id: '50A41DD1D4B8BC42B8BDF4F89DBCB076',
+    participant: undefined
+  },
+  messageTimestamp: 1740178689,
+  pushName: 'Mary',
+  broadcast: false,
+  message: Message {
+    conversation: 'De inglés',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'De inglés',
+  from: '593999217425'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593984057735@s.whatsapp.net',
+    fromMe: false,
+    id: '3F0E4C913C1DFF10B27D',
+    participant: undefined
+  },
+  messageTimestamp: 1740178885,
+  pushName: 'Natasha Ruales',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    ephemeralMessage: FutureProofMessage { message: [Message] }
+  },
+  body: '',
+  from: '593984057735'
+}
