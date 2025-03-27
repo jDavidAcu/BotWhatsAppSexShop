@@ -1,22 +1,47 @@
-### CHATBOT Whatsapp (Baileys Provider)
+# Bot de WhatsApp - Sex Shop
 
-<p align="center">
-  <img width="300" src="https://i.imgur.com/Oauef6t.png">
-</p>
+Este proyecto es una extensión de una tienda virtual simulada tipo **Sex Shop**, donde los usuarios pueden interactuar a través de **WhatsApp** mediante un bot automatizado.  
+El bot se conecta a una **API REST** para obtener información de productos directamente desde la conversación en WhatsApp.
 
+El proyecto se basa en el desarrollo previo disponible en:  
+[https://bot-whatsapp.netlify.app/](https://bot-whatsapp.netlify.app/)
 
-**Con esta librería, puedes construir flujos automatizados de conversación de manera agnóstica al proveedor de WhatsApp,** configurar respuestas automatizadas para preguntas frecuentes, recibir y responder mensajes de manera automatizada, y hacer un seguimiento de las interacciones con los clientes.  Además, puedes configurar fácilmente disparadores que te ayudaran a expandir las funcionalidades sin límites. **[Ver documentación](https://bot-whatsapp.netlify.app/)**
+## Tecnologías Utilizadas
 
+- **Bot WhatsApp**: Plataforma de automatización de conversaciones para brindar una experiencia de compra desde el chat.
+- **API REST**: Gestión de productos, usuarios y facturas a través de servicios web.
+- **JavaScript**: Lógica del bot e integración con servicios externos.
 
-```
-npm install
-npm start
-```
+## Características Principales
+
+1. **Consulta de Productos**: El bot permite listar productos disponibles obtenidos desde la API.
+
+## Instalación y Configuración
+
+Este bot se ejecuta en una plataforma compatible con automatización de WhatsApp.  
+Para conectarlo con la API de productos, asegúrate de tener acceso a los endpoints y las credenciales necesarias.
+
+## Conexión con la API
+
+El bot se conecta a la misma API utilizada en el proyecto web:  
+[https://github.com/jDavidAcu/ApiRestSexShop/](https://github.com/jDavidAcu/ApiRestSexShop/)
+
+Para más detalles sobre los endpoints y su lógica de funcionamiento, consulta el repositorio base **ApiRestSexShop**.
+
+## Recomendaciones
+
+Este proyecto fue creado como una **simulación educativa** para integrar un sistema de compras automatizado por WhatsApp.  
+Antes de implementarlo en producción, se recomienda revisar temas de **seguridad, validación de datos y control de errores**.
+
+## Licencia
+
+Este proyecto es de **uso libre** para fines académicos y de demostración.  
+No está destinado a ambientes productivos sin las adecuaciones necesarias.
+
+## Contacto
+
+Si tienes dudas o deseas aportar con sugerencias, contáctame por **GitHub** o escríbeme a **jose.david.acu@outlook.com**.
 
 ---
-## Recursos
-- [📄 Documentación](https://bot-whatsapp.netlify.app/)
-- [🚀 Roadmap](https://github.com/orgs/codigoencasa/projects/1)
-- [💻 Discord](https://link.codigoencasa.com/DISCORD)
-- [👌 Twitter](https://twitter.com/leifermendez)
-- [🎥 Youtube](https://www.youtube.com/watch?v=5lEMCeWEJ8o&list=PL_WGMLcL4jzWPhdhcUyhbFU6bC0oJd2BR)
+
+> *Este proyecto fue desarrollado como una extensión conversacional de un sistema de tienda virtual utilizando integración API con WhatsApp.*
